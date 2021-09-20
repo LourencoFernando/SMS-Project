@@ -1,0 +1,5 @@
+Assunto: Testando Definitivamente o Cadastro de Mensagens
+Nome: Lourenço Fernando Mambo Gulo
+E-mail:gastronumo@gmail.com
+Conteúdo da Mensagem:
+Esta é praticamente a primeira vez que eu cadastro uma mensaagem através do SMS com a tela de Mensagem praticamente concluida. E estou muito feliz por ter terminado esta tela de mensagens,Agora vou proseguir com outras alterações ou funcionalidades no programa SMS.
